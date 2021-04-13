@@ -11,4 +11,4 @@ Place the resulting contract in your [contracts] directory in order to compile i
 for compile can use too: https://remix.ethereum.org
 
 ## important
-remember to import/include the liberrary @( https://github.com/OpenZeppelin/openzeppelin-contracts )
+remember to import/include the liberary @( https://github.com/OpenZeppelin/openzeppelin-contracts )
